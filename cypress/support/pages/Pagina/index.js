@@ -24,9 +24,6 @@ class Pagina {
         cy.get(elem.check)
         .as('confirmButton');
         cy.get(elem.validation)
-
-
-
         
     }    
 

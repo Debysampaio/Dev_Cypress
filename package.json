@@ -1,0 +1,17 @@
+{
+  "name": "agilizeicypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Débora Sampaio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}

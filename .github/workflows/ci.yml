@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - master
 
             
 jobs:
@@ -25,4 +25,4 @@ jobs:
       - name: Run Cypress Tests
         run: npm test
 
-        
+
